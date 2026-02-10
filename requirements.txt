@@ -1,0 +1,14 @@
+# Resume Ranker - Dependencies
+
+# Data processing
+pandas>=1.5.0
+
+# NLP
+nltk>=3.8.0
+gensim>=4.3.0
+
+# PDF parsing
+pdfminer3>=2018.12.3.0
+
+# Regex
+regex>=2023.0.0

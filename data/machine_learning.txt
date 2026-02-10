@@ -1,0 +1,72 @@
+Machine Learning
+Deep Learning
+Neural Network
+Text Mining
+Pattern Recognition
+Natural Language Processing
+Bayesian
+K-mean
+Probabilistic
+Natural Language
+Algorithm
+Text Classification
+Bayesian Statistics
+Graph Theory
+Markov Model
+Collaborative Filtering
+NLP
+SVMS
+Artificial Neural Network
+Artificial Intelligence
+KNN
+Decision Tree
+Text Analyst
+Sentiment Analysis
+Data Science
+Data Scientist
+SVM
+HMM
+Unsupervised
+Naive-Bay
+Computer Vision
+Markov
+K-nearest
+Time-Serires
+Data Mining
+N-Gram
+Semi Supervised
+Logistic Regression
+Adaboost
+Recommendation System
+semi-supervised
+LDA
+PCA
+Factor Analysis
+ICA
+Mixture Models
+Independent Component Analysis
+Hidden Markov Models
+State Space Models
+HMM
+SSM
+Boltzmann Machines
+Linear Regression
+Perceptrons
+Neural Networks
+Support Vector Machines
+Gaussian Processes
+Value Functions
+Bellman's Equation
+Support Vector Machine
+Gaussian Process
+Value Function
+Value Iteration
+Policy Iteration
+Q-Learning
+Regularization
+Actor Critic
+Lambda
+TD
+Actor-Critic
+VC  Dimension
+Data Analyst
