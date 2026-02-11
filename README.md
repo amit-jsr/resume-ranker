@@ -54,3 +54,7 @@ python ranker.py
 - Barkha Bharti
 - Ashwani Patel  
 - Amit Jaiswar
+
+## Project Timeline
+- Initial development: June 2020  
+- Refactored and documented: 2026
